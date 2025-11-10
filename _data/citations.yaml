@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1098/rsbl.2025.0223
+  title: COVID-19 lockdown effects on the foraging strategies of a facultative scavenger
+  authors:
+  - Benedetta Catitti
+  - Ying-Chi Chan
+  - Damien R. Farine
+  - Steffen Oppel
+  - Florian Orgeret
+  - Patrick Scherler
+  - Matthias Tschumi
+  - Stephanie Witczak
+  - "Martin U. Gr\xFCebler"
+  publisher: Biology Letters
+  date: '2025-10-01'
+  link: https://doi.org/g99vgk
+  orcid: 0000-0002-7183-4411
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rspb.2025.0679
   title: 'Perceived and observed biases within scientific communities: a case study
     in movement ecology'
