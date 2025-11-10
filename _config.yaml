@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: chanyingchi
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Movement Ecology and Conservation
+subtitle: Asian School of the Environment, Nanyang Technological University, Singapore
+description: We study how animals move and migrate to inform biodiversity conservation across Southeast Asia.
 footer: images/background.jpg
 proofer: false
 
@@ -11,8 +11,8 @@ links:
   orcid: 0000-0002-7183-4411
   google-scholar: imgWSakAAAAJ
   github: chanyingchi
-  twitter: chanyingchi
-  youtube: chanyingchi
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
