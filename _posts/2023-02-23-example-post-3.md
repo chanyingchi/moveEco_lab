@@ -1,8 +1,8 @@
 ---
-title: Example post 3
+title: Join Us!
 image: images/photo.jpg
-author: john-doe
+author: yingchi-chan
 tags: biology, medicine
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+PhD positions in movement ecology in tropical Asia
