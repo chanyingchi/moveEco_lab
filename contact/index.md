@@ -2,7 +2,7 @@
 title: Join us
 nav:
   order: 5
-  tooltip: 
+  tooltip: How to join us
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join us!
@@ -26,7 +26,7 @@ We do not currently have funded openings for postdoctoral researchers in the lab
   include button.html
   type="Address"
   tooltip="Asian School of the Environment, NTU"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/7RaMQpL4uDJycvy47)"
+  link="https://maps.app.goo.gl/7RaMQpL4uDJycvy47"
 %}
 
 {% include section.html %}
