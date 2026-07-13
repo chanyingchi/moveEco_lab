@@ -1,5 +1,5 @@
 ---
-title: Team
+title: People
 nav:
   order: 2
   tooltip: About our team
@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Are you interested to join us? Click here to find out more!
+Are you interested to join us? Click [here](https://chanyingchi.github.io/moveEco_lab/contact/) to find out more!
 
 {% include section.html %}
 
