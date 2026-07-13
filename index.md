@@ -1,40 +1,19 @@
 ---
 ---
 
-# chanyingchi's Website
+# Welcome to the website of the Movement Ecology and Conservation Lab!
 
-An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
 ## Highlights
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Movement ecology
+- Applications of movement data in conservation
+- Avian ecology and conservation in Asia
 
 {%
   include button.html
@@ -49,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage_photo_projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -58,8 +37,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -74,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_team.jpg"
   link="team"
   title="Our Team"
   text=text
