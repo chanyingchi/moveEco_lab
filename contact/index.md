@@ -13,7 +13,7 @@ I am happy to connect with anyone with a passion for animal movement and birds. 
 We welcome NTU undergrads interested our research themes to join for a URECA project or a Final Year Project. Interested students please send an email with your CV that describe your background and interests to the lab PI Ginny Chan.
 
 **Postdocs**
-We do not currently have funded openings for postdoctoral researchers in the lab, but we encourage prospective postdocs to get in touch if they are interested in applying for funding. Available competitive funding includes the [Lee Kuan Yew Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) and [SG Academies Southeast Asia Fellowship]{https://snas.org.sg/aboutsaseaf)  (For ASEAN researchers to conduct postdoctoral research in a Singaporean research institute).
+We do not currently have funded openings for postdoctoral researchers in the lab, but we encourage prospective postdocs to get in touch if they are interested in applying for funding. Available competitive funding includes the [Lee Kuan Yew Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) and [SG Academies Southeast Asia Fellowship](https://snas.org.sg/aboutsaseaf)  (For ASEAN researchers to conduct postdoctoral research in a Singaporean research institute).
 
 {%
   include button.html
