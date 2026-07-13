@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Lab Members
 
 Are you interested to join us? Click [here](https://chanyingchi.github.io/moveEco_lab/contact/) to find out more!
 
