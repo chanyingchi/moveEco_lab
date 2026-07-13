@@ -1,33 +1,32 @@
 ---
-title: Contact
+title: Join us
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Join us!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am happy to connect with anyone with a passion for animal movement and birds. I strive to support students with different career goals, in academia, conservation, industry, and beyond. 
+
+**Undergraduates**
+We welcome NTU undergrads interested our research themes to join for a URECA project or a Final Year Project. Interested students please send an email with your CV that describe your background and interests to the lab PI Ginny Chan.
+
+**Postdocs**
+We do not currently have funded openings for postdoctoral researchers in the lab, but we encourage prospective postdocs to get in touch if they are interested in applying for funding. Available competitive funding includes the [Lee Kuan Yew Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) and [SG Academies Southeast Asia Fellowship]{https://snas.org.sg/aboutsaseaf)  (For ASEAN researchers to conduct postdoctoral research in a Singaporean research institute).
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="yingchi.chan [at] ntu.edu.sg"
+  link="yingchi.chan@ntu.edu.sg"
 %}
+
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="Address"
+  tooltip="Asian School of the Environment, NTU"
+  link="[https://www.google.com/maps](https://maps.app.goo.gl/7RaMQpL4uDJycvy47)"
 %}
 
 {% include section.html %}
