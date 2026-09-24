@@ -1,6 +1,6 @@
 ---
 name: Batrisyia Teepol, MRes.
-image: images/Batrisyia Photo.jpg
+image: images/Batrisyia_photo.jpg
 role: phd
 group: 
 links:
