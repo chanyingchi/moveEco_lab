@@ -2,7 +2,6 @@
 name: Ying-Chi (Ginny) Chan
 image: images/people_ginny.jpg
 role: principal-investigator
-affiliation: Asian School of the Environment, Nanyang Technological University, Singapore
 aliases:
   - Ying-Chi Chan
   - Y-C Chan
