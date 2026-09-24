@@ -1,6 +1,6 @@
 ---
 name: Ying-Chi (Ginny) Chan
-image: images/people_ginny.jpg
+image: images/Ginny_photo.jpg
 role: principal-investigator
 aliases:
   - Ying-Chi Chan
