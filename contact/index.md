@@ -9,13 +9,13 @@ nav:
 
 I am happy to connect with anyone with a passion for animal movement and birds. I strive to support students with different career goals, in academia, conservation, industry, and beyond. 
 
-**PhD**
-We are recruiting a PhD student on movement ecology of urban animals to join us in August 2027 or January 2028! Click [here](contact/PhD position in movement ecology of urban animals_2027intake.pdf) for more details.
+#**PhD**
+##We are recruiting a PhD student on movement ecology of urban animals to join us in August 2027 or January 2028! Click [here](contact/PhD position in movement ecology of urban animals_2027intake.pdf) for more details.
 
-**Undergraduates**
+#**Undergraduates**
 We welcome NTU undergrads interested our research themes to join for a URECA project or a Final Year Project. Interested students please send an email with your CV that describe your background and interests to the lab PI Ginny Chan.
 
-**Postdocs**
+#**Postdocs**
 We do not currently have funded openings for postdoctoral researchers in the lab, but we encourage prospective postdocs to get in touch if they are interested in applying for funding. Available competitive funding includes the [Lee Kuan Yew Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) and [SG Academies Southeast Asia Fellowship](https://snas.org.sg/aboutsaseaf)  (For ASEAN researchers to conduct postdoctoral research in a Singaporean research institute).
 
 {%
