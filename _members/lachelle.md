@@ -1,6 +1,6 @@
 ---
 name: Lachelle Low
-image: images/Lachelle_photo.jpg
+image: images/Lachelle_photo.jpeg
 description: URECA Project student
 ---
 
