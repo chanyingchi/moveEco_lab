@@ -9,6 +9,9 @@ nav:
 
 I am happy to connect with anyone with a passion for animal movement and birds. I strive to support students with different career goals, in academia, conservation, industry, and beyond. 
 
+**PhD**
+We are recruiting a PhD student on movement ecology of urban animals to join us in August 2027 or January 2028! Click [here] for more details.
+
 **Undergraduates**
 We welcome NTU undergrads interested our research themes to join for a URECA project or a Final Year Project. Interested students please send an email with your CV that describe your background and interests to the lab PI Ginny Chan.
 
@@ -25,7 +28,7 @@ We do not currently have funded openings for postdoctoral researchers in the lab
 {%
   include button.html
   type="Address"
-  tooltip="Asian School of the Environment, NTU"
+  text="Asian School of the Environment, NTU"
   link="https://maps.app.goo.gl/7RaMQpL4uDJycvy47"
 %}
 
@@ -35,8 +38,8 @@ We do not currently have funded openings for postdoctoral researchers in the lab
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/photo_team.jpg"
+  caption=""
 %}
 
 {% endcapture %}
@@ -45,8 +48,8 @@ We do not currently have funded openings for postdoctoral researchers in the lab
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/photo_join us.jpg"
+  caption=""
 %}
 
 {% endcapture %}
@@ -56,21 +59,15 @@ We do not currently have funded openings for postdoctoral researchers in the lab
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
