@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 3
-  tooltip: Published works
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
+## Highlights
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
