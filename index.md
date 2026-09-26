@@ -6,10 +6,7 @@
 
 {% include section.html %}
 
-### Research themes:
-- Animal movement ecology in Southeast Asia
-- Applications of movement data in conservation
-- Avian ecology and conservation in Asia
+We study how animals move and migrate to inform biodiversity conservation across Southeast Asia.
 
 {% include section.html %}
 
