@@ -11,7 +11,7 @@ I am happy to connect with anyone with a passion for animal movement and birds. 
 
 {% include section.html %}
 
-# **PhD**
+## **PhD**
 ### We are recruiting a PhD student on movement ecology of urban animals to join us in August 2027 or January 2028! Click [here](PhD position in movement ecology of urban animals_2027intake.pdf) for more details.
 
 
