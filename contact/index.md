@@ -9,6 +9,8 @@ nav:
 
 I am happy to connect with anyone with a passion for animal movement and birds. I strive to support students with different career goals, in academia, conservation, industry, and beyond. 
 
+{% include section.html %}
+
 # **PhD**
 ### We are recruiting a PhD student on movement ecology of urban animals to join us in August 2027 or January 2028! Click [here](PhD position in movement ecology of urban animals_2027intake.pdf) for more details.
 
