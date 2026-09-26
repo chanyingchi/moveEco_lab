@@ -1,19 +1,16 @@
 ---
 ---
 
-# Welcome to the website of the Movement Ecology and Conservation Lab!
+## Welcome to the website of the Movement Ecology and Conservation Lab!
 
 
 {% include section.html %}
 
-## Highlights
 
 
 {% capture text %}
 
-- Movement ecology
-- Applications of movement data in conservation
-- Avian ecology and conservation in Asia
+
 
 {%
   include button.html
@@ -41,7 +38,7 @@
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our people"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -53,6 +50,6 @@
   include feature.html
   image="images/photo_team.jpg"
   link="team"
-  title="Our Team"
+  title="Our People"
   text=text
 %}
