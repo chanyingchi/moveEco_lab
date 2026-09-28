@@ -6,7 +6,7 @@
 
 {% include section.html %}
 
-We study how animals move and migrate to inform biodiversity conservation across Southeast Asia.
+We study how animals move and migrate to inform biodiversity conservation and wildlife management in Southeast Asia.
 
 {% include section.html %}
 
@@ -34,6 +34,8 @@ We study how animals move and migrate to inform biodiversity conservation across
   style="bare"
   text=text
 %}
+
+{% include section.html %}
 
 {% capture text %}
 
