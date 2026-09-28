@@ -14,7 +14,7 @@ nav:
 
 {% include citation.html lookup="A call to integrate animal movement into biodiversity indicators" style="rich" %}
 
-{% include section.html %}
+
 
 ## All
 
