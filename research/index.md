@@ -5,14 +5,14 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="" %}Publications
 
 
 {% include section.html %}
 
 ## Highlights
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A call to integrate animal movement into biodiversity indicators" style="rich" %}
 
 {% include section.html %}
 
