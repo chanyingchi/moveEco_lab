@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+{% include section.html %}
+
 ## Migration and local movements of shorebirds in Southeast Asia
 
 Southeast Asia is home to many shorebirds in the East Asian-Australasian Flyway and the Central Asian Flyway, but shorebirds here are also under threat such as habitat loss and poaching. We have been tracking shorebirds in Southeast Asia to study their migration and local movement patterns, as well as conducting exploratory surveys to document shorebird sites and habitats in the region.  We aim to galvanize the protection of important shorebird sites by providing key scientific evidence needed to inform conservation policies locally and regionally.
