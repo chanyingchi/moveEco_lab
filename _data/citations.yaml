@@ -563,3 +563,66 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources2.yaml
+- id: doi:10.1038/s44358-026-00173-x
+  title: A call to integrate animal movement into biodiversity indicators
+  authors:
+  - Ruth Y. Oliver
+  - "Katherine H\xE9bert"
+  - Lacey F. Hughey
+  - "Luca B\xF6rger"
+  - Francesca Cagnacci
+  - Nathan W. Cooper
+  - Sarah C. Davidson
+  - Andrew Gonzalez
+  - Autumn-Lynn Harrison
+  - Jessica M. Kendall-Bar
+  - Katie L. Millette
+  - Joanna Mills Flemming
+  - Thomas Mueller
+  - Will Rogers
+  - Talia Speaker
+  - Jared A. Stabach
+  - Marlee A. Tucker
+  - Wenjing Xu
+  - Scott W. Yanco
+  - Briana Abrahms
+  - Sara Beery
+  - Roxanne S. Beltran
+  - Lily K. Bentley
+  - Larissa T. Beumer
+  - Mary E. Bowers
+  - Steven W. J. Canty
+  - Ying-Chi Chan
+  - Juliet Cohen
+  - Grant M. Connette
+  - Eduardo Cuevas
+  - Tammy E. Davies
+  - Daniel C. Dunn
+  - Diego Ellis-Soto
+  - Antonio Ferraz
+  - John Fieberg
+  - Kimberly R. Hall
+  - Neil Hammerschlag
+  - Anne G. Hertel
+  - Dongmin Kim
+  - Samara Manzin
+  - Clive R. McMahon
+  - Robin Naidoo
+  - Aidin Niamir
+  - A. Justin Nowakowski
+  - Matthew B. Ogburn
+  - Jonathan D. Pye
+  - "Jos\xE9 Manuel Reyes-Gonz\xE1lez"
+  - Nicholas J. Russo
+  - Christian Rutz
+  - Amy L. Scarpignato
+  - Stella F. Uiterwaal
+  - Raqib Valli
+  - Alessandra Vidal Meza
+  - George Wittemyer
+  - Laura J. Pollock
+  publisher: Nature Reviews Biodiversity
+  date: '2026-06-17'
+  link: https://doi.org/hckq93
+  plugin: sources.py
+  file: sources.yaml
