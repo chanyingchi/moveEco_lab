@@ -1,8 +1,8 @@
 ---
 name: Nico Lee
 image: images/Nico Lee_photo.jpg
-description: Final Year Project student
-role: 
+description: 
+role: fyp
 links:
 
 ---
