@@ -1,6 +1,6 @@
 ---
 name: Aveenashkumar s/o Ravindran (Ash)
-image: images/Aveenashkumar_Photo.jpeg
+image: images/Aveenashkumar_Photo.jpg
 description: URECA Project student
 ---
 
