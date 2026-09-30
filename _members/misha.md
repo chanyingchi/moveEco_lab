@@ -1,8 +1,8 @@
 ---
 name: Misha Rashanah
 image: images/misha_photo.jpg
-description: Final Year Project student
-role: 
+description: 
+role: fyp
 links: 
 
 ---
